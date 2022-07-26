@@ -9,6 +9,7 @@ from airflow.providers.google.cloud.hooks.gcs import GCSHook
 
 class ExampleDataToGCSOperator(BaseOperator):
     """Operator that creates example JSON data and writes it to GCS.
+
     Args:
         task_id: (templated) sensor data left bound
         run_date: (templated) sensor data right bound

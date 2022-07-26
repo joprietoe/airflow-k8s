@@ -11,6 +11,454 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "values.yaml",
+			"redo_stack":
+			[
+				[
+					195,
+					1,
+					"insert",
+					{
+						"characters": "120"
+					},
+					"AwAAAPkIAAAAAAAA+QgAAAAAAAABAAAAMPgIAAAAAAAA+AgAAAAAAAABAAAAMvcIAAAAAAAA9wgAAAAAAAABAAAAMQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6CAAAAAAAAPoIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					194,
+					1,
+					"left_delete",
+					null,
+					"AgAAAPcIAAAAAAAA+AgAAAAAAAAAAAAA+AgAAAAAAAD5CAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD3CAAAAAAAAPcIAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 47945,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					52,
+					2,
+					"left_delete",
+					null,
+					"AgAAABeyAAAAAAAAF7IAAAAAAAAEAAAAYWxzZRayAAAAAAAAFrIAAAAAAAABAAAAZg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABeyAAAAAAAAG7IAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "true"
+					},
+					"BAAAABayAAAAAAAAF7IAAAAAAAAAAAAAF7IAAAAAAAAYsgAAAAAAAAAAAAAYsgAAAAAAABmyAAAAAAAAAAAAABmyAAAAAAAAGrIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABayAAAAAAAAFrIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					57,
+					1,
+					"paste",
+					null,
+					"AQAAAN2yAAAAAAAACbMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAN2yAAAAAAAA3bIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					58,
+					31,
+					"right_delete",
+					null,
+					"HwAAAAmzAAAAAAAACbMAAAAAAAABAAAAaAmzAAAAAAAACbMAAAAAAAABAAAAdAmzAAAAAAAACbMAAAAAAAABAAAAdAmzAAAAAAAACbMAAAAAAAABAAAAcAmzAAAAAAAACbMAAAAAAAABAAAAcwmzAAAAAAAACbMAAAAAAAABAAAAOgmzAAAAAAAACbMAAAAAAAABAAAALwmzAAAAAAAACbMAAAAAAAABAAAALwmzAAAAAAAACbMAAAAAAAABAAAAZwmzAAAAAAAACbMAAAAAAAABAAAAaQmzAAAAAAAACbMAAAAAAAABAAAAdAmzAAAAAAAACbMAAAAAAAABAAAAaAmzAAAAAAAACbMAAAAAAAABAAAAdQmzAAAAAAAACbMAAAAAAAABAAAAYgmzAAAAAAAACbMAAAAAAAABAAAALgmzAAAAAAAACbMAAAAAAAABAAAAYwmzAAAAAAAACbMAAAAAAAABAAAAbwmzAAAAAAAACbMAAAAAAAABAAAAbQmzAAAAAAAACbMAAAAAAAABAAAALwmzAAAAAAAACbMAAAAAAAABAAAAYQmzAAAAAAAACbMAAAAAAAABAAAAcAmzAAAAAAAACbMAAAAAAAABAAAAYQmzAAAAAAAACbMAAAAAAAABAAAAYwmzAAAAAAAACbMAAAAAAAABAAAAaAmzAAAAAAAACbMAAAAAAAABAAAAZQmzAAAAAAAACbMAAAAAAAABAAAALwmzAAAAAAAACbMAAAAAAAABAAAAYQmzAAAAAAAACbMAAAAAAAABAAAAaQmzAAAAAAAACbMAAAAAAAABAAAAcgmzAAAAAAAACbMAAAAAAAABAAAAZgmzAAAAAAAACbMAAAAAAAABAAAAbA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAmzAAAAAAAACbMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					59,
+					6,
+					"right_delete",
+					null,
+					"BgAAAAmzAAAAAAAACbMAAAAAAAABAAAAbwmzAAAAAAAACbMAAAAAAAABAAAAdwmzAAAAAAAACbMAAAAAAAABAAAALgmzAAAAAAAACbMAAAAAAAABAAAAZwmzAAAAAAAACbMAAAAAAAABAAAAaQmzAAAAAAAACbMAAAAAAAABAAAAdA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAmzAAAAAAAACbMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					65,
+					11,
+					"left_delete",
+					null,
+					"CwAAACCzAAAAAAAAILMAAAAAAAABAAAAZR+zAAAAAAAAH7MAAAAAAAABAAAAbB6zAAAAAAAAHrMAAAAAAAABAAAAYh2zAAAAAAAAHbMAAAAAAAABAAAAYRyzAAAAAAAAHLMAAAAAAAABAAAAdBuzAAAAAAAAG7MAAAAAAAABAAAAcxqzAAAAAAAAGrMAAAAAAAABAAAALRmzAAAAAAAAGbMAAAAAAAABAAAAMhizAAAAAAAAGLMAAAAAAAABAAAALRezAAAAAAAAF7MAAAAAAAABAAAAMhazAAAAAAAAFrMAAAAAAAABAAAAdg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACGzAAAAAAAAIbMAAAAAAAAAAAAAAABvQA"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "main"
+					},
+					"BAAAABazAAAAAAAAF7MAAAAAAAAAAAAAF7MAAAAAAAAYswAAAAAAAAAAAAAYswAAAAAAABmzAAAAAAAAAAAAABmzAAAAAAAAGrMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABazAAAAAAAAFrMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					69,
+					6,
+					"right_delete",
+					null,
+					"BgAAAPmzAAAAAAAA+bMAAAAAAAABAAAAdPmzAAAAAAAA+bMAAAAAAAABAAAAZfmzAAAAAAAA+bMAAAAAAAABAAAAc/mzAAAAAAAA+bMAAAAAAAABAAAAdPmzAAAAAAAA+bMAAAAAAAABAAAAc/mzAAAAAAAA+bMAAAAAAAABAAAALw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPmzAAAAAAAA+bMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					119,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI+1AAAAAAAAj7UAAAAAAAABAAAAIw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJC1AAAAAAAAkLUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": "airflo"
+					},
+					"BgAAAKO1AAAAAAAApLUAAAAAAAAAAAAApLUAAAAAAACltQAAAAAAAAAAAACltQAAAAAAAKa1AAAAAAAAAAAAAKa1AAAAAAAAp7UAAAAAAAAAAAAAp7UAAAAAAACotQAAAAAAAAAAAACotQAAAAAAAKm1AAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKO1AAAAAAAAo7UAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "w/"
+					},
+					"AgAAAKm1AAAAAAAAqrUAAAAAAAAAAAAAqrUAAAAAAACrtQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKm1AAAAAAAAqbUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					124,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKq1AAAAAAAAqrUAAAAAAAABAAAALw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKu1AAAAAAAAq7UAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAKq1AAAAAAAAq7UAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKq1AAAAAAAAqrUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "gke-"
+					},
+					"BAAAAKu1AAAAAAAArLUAAAAAAAAAAAAArLUAAAAAAACttQAAAAAAAAAAAACttQAAAAAAAK61AAAAAAAAAAAAAK61AAAAAAAAr7UAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKu1AAAAAAAAq7UAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": "git-s"
+					},
+					"BQAAAK+1AAAAAAAAsLUAAAAAAAAAAAAAsLUAAAAAAACxtQAAAAAAAAAAAACxtQAAAAAAALK1AAAAAAAAAAAAALK1AAAAAAAAs7UAAAAAAAAAAAAAs7UAAAAAAAC0tQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAK+1AAAAAAAAr7UAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "ecret"
+					},
+					"BQAAALS1AAAAAAAAtbUAAAAAAAAAAAAAtbUAAAAAAAC2tQAAAAAAAAAAAAC2tQAAAAAAALe1AAAAAAAAAAAAALe1AAAAAAAAuLUAAAAAAAAAAAAAuLUAAAAAAAC5tQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALS1AAAAAAAAtLUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					129,
+					15,
+					"right_delete",
+					null,
+					"DwAAALm1AAAAAAAAubUAAAAAAAABAAAAZ7m1AAAAAAAAubUAAAAAAAABAAAAabm1AAAAAAAAubUAAAAAAAABAAAAdLm1AAAAAAAAubUAAAAAAAABAAAALbm1AAAAAAAAubUAAAAAAAABAAAAY7m1AAAAAAAAubUAAAAAAAABAAAAcrm1AAAAAAAAubUAAAAAAAABAAAAZbm1AAAAAAAAubUAAAAAAAABAAAAZLm1AAAAAAAAubUAAAAAAAABAAAAZbm1AAAAAAAAubUAAAAAAAABAAAAbrm1AAAAAAAAubUAAAAAAAABAAAAdLm1AAAAAAAAubUAAAAAAAABAAAAabm1AAAAAAAAubUAAAAAAAABAAAAYbm1AAAAAAAAubUAAAAAAAABAAAAbLm1AAAAAAAAubUAAAAAAAABAAAAcw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALm1AAAAAAAAubUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					133,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI+1AAAAAAAAj7UAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJC1AAAAAAAAkLUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					146,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOMGAAAAAAAA4wYAAAAAAAABAAAAfg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOMGAAAAAAAA4wYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					147,
+					1,
+					"paste",
+					null,
+					"AQAAAOMGAAAAAAAAQgcAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOMGAAAAAAAA4wYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					150,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEwHAAAAAAAATAcAAAAAAAABAAAAfg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE0HAAAAAAAATQcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": "1.0."
+					},
+					"BAAAAEwHAAAAAAAATQcAAAAAAAAAAAAATQcAAAAAAABOBwAAAAAAAAAAAABOBwAAAAAAAE8HAAAAAAAAAAAAAE8HAAAAAAAAUAcAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEwHAAAAAAAATAcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAAFAHAAAAAAAAUQcAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFAHAAAAAAAAUAcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					156,
+					6,
+					"right_delete",
+					null,
+					"BgAAADwHAAAAAAAAPAcAAAAAAAABAAAAOjwHAAAAAAAAPAcAAAAAAAABAAAAMTwHAAAAAAAAPAcAAAAAAAABAAAALjwHAAAAAAAAPAcAAAAAAAABAAAAMDwHAAAAAAAAPAcAAAAAAAABAAAALjwHAAAAAAAAPAcAAAAAAAABAAAAMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADwHAAAAAAAAPAcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					159,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADwHAAAAAAAAPQcAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADwHAAAAAAAAPAcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					160,
+					1,
+					"paste",
+					null,
+					"AQAAAD0HAAAAAAAAWQcAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD0HAAAAAAAAPQcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					163,
+					1,
+					"left_delete",
+					null,
+					"AQAAADwHAAAAAAAAPAcAAAAAAAAdAAAAIGFpcmZsb3ctcGx1Z2lucy1kZXBlbmRlbmNpZXM",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFkHAAAAAAAAPAcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					174,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADwHAAAAAAAAPQcAAAAAAAAAAAAAPQcAAAAAAABBBwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADwHAAAAAAAAPAcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					175,
+					1,
+					"paste",
+					null,
+					"AQAAAEEHAAAAAAAAoAcAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEEHAAAAAAAAQQcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": "\t\t\t\t\t\t"
+					},
+					"BgAAAEEHAAAAAAAAQwcAAAAAAAAAAAAAQwcAAAAAAABFBwAAAAAAAAAAAABFBwAAAAAAAEcHAAAAAAAAAAAAAEcHAAAAAAAASQcAAAAAAAAAAAAASQcAAAAAAABLBwAAAAAAAAAAAABLBwAAAAAAAE0HAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEEHAAAAAAAAQQcAAAAAAAAAAAAAAABAQA"
+				],
+				[
+					180,
+					14,
+					"right_delete",
+					null,
+					"DgAAAOMGAAAAAAAA4wYAAAAAAABZAAAAdXMtZWFzdDEtZG9ja2VyLnBrZy5kZXYvYWR2YW5jZWQtYW5hbHl0aWMtMjEyNjIwL2FpcmZsb3ctZ2tlL2FpcmZsb3ctcGx1Z2lucy1kZXBlbmRlbmNpZXPjBgAAAAAAAOMGAAAAAAAAAQAAAArjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACDjBgAAAAAAAOMGAAAAAAAAAQAAACA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOMGAAAAAAAAPAcAAAAAAAD////////vfw"
+				],
+				[
+					181,
+					4,
+					"right_delete",
+					null,
+					"BAAAAOMGAAAAAAAA4wYAAAAAAAABAAAAIOMGAAAAAAAA4wYAAAAAAAABAAAAIOMGAAAAAAAA4wYAAAAAAAABAAAAIOMGAAAAAAAA4wYAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOMGAAAAAAAA4wYAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					183,
+					6,
+					"left_delete",
+					null,
+					"BgAAAEEHAAAAAAAAQQcAAAAAAAABAAAAMEAHAAAAAAAAQAcAAAAAAAABAAAALj8HAAAAAAAAPwcAAAAAAAABAAAAMD4HAAAAAAAAPgcAAAAAAAABAAAALj0HAAAAAAAAPQcAAAAAAAABAAAAMTwHAAAAAAAAPAcAAAAAAAABAAAAOg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEIHAAAAAAAAQgcAAAAAAAD////////vfw"
+				]
+			]
+		},
+		{
+			"file": "/home/julio/workspace/kong-deb-less.yaml",
+			"settings":
+			{
+				"buffer_size": 14597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "apiVersion: v1"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAABTkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "requirements.txt",
+			"settings":
+			{
+				"buffer_size": 31,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB8AAAAAAAAAHwAAAAAAAAAHAAAAPT02LjMuMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAB8AAAAAAAAAJgAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "us-east1-docker.pkg.dev/advanced-analytic-212620/airflow-gke/airflow-plugins-dependencies:1.0.0",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix",
+				"name": "us-east1-docker.pkg.dev/advanced-analytic-212620/a"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					6,
+					"left_delete",
+					null,
+					"BgAAAA4AAAAAAAAADgAAAAAAAAABAAAAcg0AAAAAAAAADQAAAAAAAAABAAAAZQwAAAAAAAAADAAAAAAAAAABAAAAawsAAAAAAAAACwAAAAAAAAABAAAAYwoAAAAAAAAACgAAAAAAAAABAAAAbwkAAAAAAAAACQAAAAAAAAABAAAAZA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					7,
+					1,
+					"right_delete",
+					null,
+					"AQAAAAkAAAAAAAAACQAAAAAAAAABAAAALg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "Dockerfile",
+			"settings":
+			{
+				"buffer_size": 136,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAABYAAAAAAAAAFgAAAAAAAAABAAAAMg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABcAAAAAAAAAFwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAABYAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABYAAAAAAAAAFgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAABgAAAAAAAAAGAAAAAAAAAABAAAAMQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABkAAAAAAAAAGQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAABgAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -50,8 +498,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/julio/workspace/airflow-k8s",
+		"/home/julio/workspace/airflow-k8s/dags",
+		"/home/julio/workspace/airflow-k8s/plugins"
+	],
 	"file_history":
 	[
+		"/home/julio/workspace/airflow-k8s/Dockerfile",
+		"/home/julio/workspace/airflow-k8s/requirements.txt",
+		"/home/julio/workspace/airflow-k8s/key",
 		"/home/julio/workspace/example_airflow/dags/write_to_gcs.py",
 		"/home/julio/workspace/example_airflow/plugins/gcs_operators.py",
 		"/home/julio/.config/sublime-text/Packages/User/C11.sublime-build",
@@ -73,6 +530,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Executor",
+			"database",
+			"airflow-webserver-secret-key",
+			"enable",
+			"git-sync"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -94,6 +556,173 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "values.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6959,
+								6959
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/julio/workspace/airflow-k8s/values.yaml",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4051.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/julio/workspace/kong-deb-less.yaml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								98
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"auto_name": "apiVersion: v1",
+							"lsp_uri": "file:///home/julio/workspace/kong-deb-less.yaml",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/julio/workspace/airflow-k8s/requirements.txt",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "us-east1-docker.pkg.dev/advanced-analytic-212620/a",
+							"lsp_uri": "buffer://sublime/100",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/julio/workspace/airflow-k8s/Dockerfile",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -178,7 +807,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 213.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
