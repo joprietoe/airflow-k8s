@@ -227,7 +227,7 @@ rbac:
 
 # Airflow executor
 # One of: LocalExecutor, LocalKubernetesExecutor, CeleryExecutor, KubernetesExecutor, CeleryKubernetesExecutor
-executor: "KubernetesExecutor"
+executor: "LocalExecutor"
 
 # If this is true and using LocalExecutor/KubernetesExecutor/CeleryKubernetesExecutor, the scheduler's
 # service account will have access to communicate with the api-server and launch pods.
@@ -326,9 +326,9 @@ data:
   # Otherwise pass connection values in
   metadataConnection:
     user: postgres
-    pass: aEHmjQeTUDcWWe7
+    pass: postgres
     protocol: postgresql
-    host: 35.192.219.233
+    host: ~
     port: 5432
     db: postgres
     sslmode: disable
@@ -1450,7 +1450,7 @@ cleanup:
 # Configuration for postgresql subchart
 # Not recommended for production
 postgresql:
-  enabled: false
+  enabled: true
   postgresqlPassword: postgres
   postgresqlUsername: postgres
 
